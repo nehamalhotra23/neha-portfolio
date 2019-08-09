@@ -1,11 +1,11 @@
-# {Author Name}
+# Author Name
 {Neha Malhotra}
 
-#### {Portfolio Site}, {08-09-2019}_
+#### Portfolio Site, 08-09-2019_
 
 ## Description
 
-{This is my portfolio site where I will display client work.}
+This is my portfolio site where I will display client work.
 
 ## Setup/Installation Requirements
 
@@ -18,5 +18,5 @@
 
 ### License
 
-Copyright (c) 2019 **_{Neha Malhotra}_**
+Copyright (c) 2019 **_Neha Malhotra_**
 Licensing
