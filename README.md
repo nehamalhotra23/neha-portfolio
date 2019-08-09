@@ -1,5 +1,5 @@
 # Author Name
-{Neha Malhotra}
+Neha Malhotra
 
 #### Portfolio Site, 08-09-2019_
 
@@ -14,7 +14,7 @@ This is my portfolio site where I will display client work.
 
 ## Technologies Used
 
- {HTML & CSS}
+ HTML & CSS
 
 ### License
 

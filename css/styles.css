@@ -1,8 +1,27 @@
-h1 {
+#neha {
  color: black;
-  float: center;
+ margin-left: 165px;
+
 }
-ul {
+ol {
   border-style: double;
-  width: 600px;
+
+}
+.logo {
+  margin-top: -68px;
+  border-radius: 50%
+}
+
+#aboutme {
+  float: left;
+  padding: 10px;
+}
+.well {
+
+}
+li {
+  font-size: 20px;
+}
+h2 {
+  font-size: 30px;
 }
