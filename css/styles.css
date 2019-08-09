@@ -1,0 +1,8 @@
+h1 {
+ color: black;
+  float: center;
+}
+ul {
+  border-style: double;
+  width: 600px;
+}
