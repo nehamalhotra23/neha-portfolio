@@ -3,12 +3,6 @@
   margin-left: 165px;
 }
 
-ol {
-  border-style: double;
-  border-radius: 5% !important;
-  padding: 10%;
-}
-
 .logo {
   margin-top: -68px;
   border-radius: 50%
@@ -28,9 +22,10 @@ h2 {
 }
 
 #contact {
-  float: right;
-  margin-right: 92px;
-  margin-top: -156px;
+   float: right;
+   margin-right: 92px;
+   margin-left: 887px;
+   margin-top: -137px;
 }
 
 #list2 {
